@@ -1,0 +1,5 @@
+{
+         "ip":QHSsmp.aternos.me",
+         "port": "16086"
+         "name": "QHSsmp"
+}
